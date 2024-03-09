@@ -2,10 +2,8 @@
 
 Hello stranger, welcome to my GitHub home.
 
-My name is Andrea Barberio, and I work as Production Engineer in Meta (f.k.a. Facebook).
-I work in the Web Foundation team, focusing on the company-wide incident response and web
-infrastructure development. I used to work on open source firmware and hardware, bricking
-anything that was in sight.
+I work as Site Reliability Engineer at NVIDIA. In the previous 11 years I worked at Facebook and at Amazon AWS, where I focused on software development and reliability for products and infrastructure. Some of the areas I worked in are open source system firmware for OpenCompute, company-wide incident response, web infrastructure, DNS/DHCP and OS provisioning, datacenter automation, cluster lifecycle , network monitoring, and many others.
+
 In my personal time I enjoy programming, reverse engineering, and photography.
 
 My personal home page has more information about me, go there if you're curious, https://insomniac.slackware.it ,
